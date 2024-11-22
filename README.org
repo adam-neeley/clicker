@@ -1,0 +1,31 @@
+#+title: Clicker Game
+* Planetary Cycles
+This idea is inspired from the planetary cycles found in western (or tropical) astrology.
+** Objective
+Conquer the solar system.
+
+** Mechanics
+In this clicker game, the points are *mana*, which represent magic. There are seven types of mana:
+
+1. Mercury
+2. Venus
+3. Terra
+4. Luna
+5. Mars
+6. Jupiter
+7. Saturn
+
+As time goes on, each planet moves along their orbit, moving in and out of each of the 12 zodiac signs.
+
+Depending on the planet and sign, the mana for that planet increases (or decreases) at a particular rate, possibly along with other kinds of advantages (or disadvantages).
+
+For example,
+
+- Mercury in Libra:
+  - Increase: Mercury gains 1 point every 5 hours.
+- Venus in Scorpio:
+  - Increase: Venus gains 2 points every 3 hours.
+
+As the player accumulates mana for one planet, that planet "levels up," which unlocks various abilities and returns more mana.
+
+When each planet is maxxed (level 10), the player has won the game.
